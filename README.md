@@ -1,5 +1,5 @@
 
-## About Laravel-app
+## About Laravel-api
 
     -User can register here and get client_id and client_secret to access all services in this app.
     
